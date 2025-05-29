@@ -10,7 +10,9 @@ This project was created to demonstrate understanding of HTML and CSS. It serves
 - **HTML Structure**: Basic page layout using HTML.
 - **CSS Styling**: Custom styles to create a simple, desktop design.
 - **Design Elements**: Includes basic UI elements such as buttons, text boxes, and containers.
-![Untitled](https://github.com/user-attachments/assets/a3ff8e3f-88d2-4f92-8871-724dd14ecce9)
+![Untitled](https://github.com/user-attachments/assets/ae6400a6-6ea6-44a4-91fd-92a261bbfd89)
+![Untitled](https://github.com/user-attachments/assets/d77939c3-777e-401f-8126-0026c3e36c8a)
+
 ![Untitled](https://github.com/user-attachments/assets/af4dd7e3-7779-43a6-9e61-ecb967fd35bb)
 ![Untitled](https://github.com/user-attachments/assets/9143260c-942d-4ece-b30b-5ac8376c7cbd)
 ![Untitled](https://github.com/user-attachments/assets/7761960b-deec-4457-b01c-99fb32151972)
